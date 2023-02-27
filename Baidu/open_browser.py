@@ -1,3 +1,4 @@
+print("Start test********************************")
 from selenium.webdriver.chrome import webdriver
 from time import sleep
 driver=webdriver.WebDriver()
